@@ -591,4 +591,4 @@ elif section == "🌟 Future Scenarios":
             title_text="📊 Scenario Impact Analysis"
         )
 
-        st.plotly_chart(fig, use_container_width=Tru
+        st.plotly_chart(fig, use_container_width=True)
